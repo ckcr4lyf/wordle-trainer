@@ -1,2 +1,2 @@
 const ans = JSON.parse(window.localStorage.gameState).solution
-alert(ans);
+alert(`The answer for today is: ${ans}`);
