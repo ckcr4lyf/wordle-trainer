@@ -26,7 +26,7 @@ Now go to https://www.powerlanguage.co.uk/wordle/ and enjoy!
 Trainer is a reference to [video game trainers](https://en.wikipedia.org/wiki/Trainer_(games)) from the good old days.
 
 
-#### Donate
+## Donate
 
 ```
 
